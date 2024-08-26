@@ -1,4 +1,7 @@
 ## - error rwrx ( itu dalam mysql permision, harus di tambahkan : dalam .dockerignore ( app-islam/mysql_data ) 
+## **- noted : pastikan sebelum migrate db, docker exec -it nama_container sh ( untuk masuk ke kontainer mysql, atau container lainnya )**
+   **Tampilan jika berhasil masuk ke container mysql** ![image](https://github.com/user-attachments/assets/1b1e86a7-f955-4bdf-ba03-041d05b3485c)
+
 
 
 ## Cara Running
